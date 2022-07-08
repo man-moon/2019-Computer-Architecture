@@ -1,0 +1,11 @@
+4
+4
+2
+lw 0x00
+lw 0x18
+show
+
+lw 0x2c
+lw 0x58
+show
+quit
